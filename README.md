@@ -1,6 +1,6 @@
 ## Hi there, I'm Fauzan
 
-I'm a Junior Frontend Developer and currently studying in informatic Engineering of Hasanuddin University Makassar, Indonesia
+I'm a Junior Frontend Web Developer and currently studying in informatic Engineering of Hasanuddin University Makassar, Indonesia
 
 
 <p align="left">
